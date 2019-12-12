@@ -1,0 +1,39 @@
+.intro {
+  background-color: #1B2D37;
+}
+
+.intro__wrapper {
+  margin: 0 auto;
+  max-width: 1440px;
+}
+
+.intro__title {
+  font-family: "Roboto Condensed";
+  font-weight: 700;
+  font-size: 80px;
+  line-height: 94px;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  margin: 0;
+  padding: 0;
+}
+
+.intro__subtitle {
+  font-size: 22px;
+  line-height: 34px;
+  color: #FFFFFF;
+  margin: 0;
+  padding: 0;
+}
+
+.intro__consultation {
+  font-family: "Roboto Condensed";
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  background-color: #00B2FF;
+}
